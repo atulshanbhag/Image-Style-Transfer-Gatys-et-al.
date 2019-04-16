@@ -46,7 +46,8 @@ If you want to use a different GPU (by default, GPU#0 being used, if available),
     CUDA_VISIBLE_DEVICES=2 python style_transfer.py # uses GPU#2 instead of GPU#0
     
 ## Results
-Some style transfer results on the famous Tuebingen Neckarfront image
+Some style transfer results on the famous Tuebingen Neckarfront image, each of these optimizations taking 5 mins on average to generate the results. 
+
 <p align="center">
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/contents/tuebingen.jpg"><br>
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/starry.jpg"> <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/tuebingen_starry.png"><br>
