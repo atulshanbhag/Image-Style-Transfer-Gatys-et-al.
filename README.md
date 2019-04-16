@@ -46,7 +46,7 @@ If you want to use a different GPU (by default, GPU#0 being used, if available),
     CUDA_VISIBLE_DEVICES=2 python style_transfer.py # uses GPU#2 instead of GPU#0
     
 ## Results
-
+Some style transfer results on the famous Tuebingen Neckarfront image
 <p align="center">
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/contents/tuebingen.jpg"><br>
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/starry.jpg"> <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/tuebingen_starry.png"><br>
@@ -55,7 +55,6 @@ If you want to use a different GPU (by default, GPU#0 being used, if available),
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/shipwreck.jpg"> <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/tuebingen_shipwreck.png"><br>
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/night.jpg"> <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/tuebingen_night.png"><br>
 </p>    
-
 
 ## References
 * Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "Image style transfer using convolutional neural networks." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2414-2423. 2016.
