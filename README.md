@@ -57,6 +57,14 @@ Some style transfer results on the famous Tuebingen Neckarfront image, each of t
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/night.jpg"> <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/tuebingen_night.png"><br>
 </p>    
 
+<p align="center">
+    <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/contents/bradpitt.jpg"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/contents/scarlet.jpg"><br>
+    <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/fire.jpg"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/bradpitt_fire.png"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/scarlet_fire.png"><br>
+    <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/portrait_0.jpg"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/bradpitt_portrait_0.png"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/scarlet_portrait_0.png"><br>
+    <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/portrait_1.jpg"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/bradpitt_portrait_1.png"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/scarlet_portrait_1.png"><br>
+    <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/whitewalker.jpg"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/bradpitt_whitewalker.png"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/scarlet_whitewalker.png"><br>
+</p>   
+
 ## References
 * Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "Image style transfer using convolutional neural networks." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 2414-2423. 2016.
 * Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
