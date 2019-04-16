@@ -48,6 +48,7 @@ If you want to use a different GPU (by default, GPU#0 being used, if available),
 ## Results
 Some style transfer results on the famous Tuebingen Neckarfront image, each of these optimizations taking 5 mins on average to generate the results. 
 
+### SET A
 <p align="center">
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/contents/tuebingen.jpg"><br>
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/starry.jpg"> <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/tuebingen_starry.png"><br>
@@ -57,6 +58,7 @@ Some style transfer results on the famous Tuebingen Neckarfront image, each of t
     <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/night.jpg"> <img width=400 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/tuebingen_night.png"><br>
 </p>    
 
+### SET B
 <p align="center">
     <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/contents/bradpitt.jpg"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/contents/scarlet.jpg"><br>
     <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/styles/fire.jpg"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/bradpitt_fire.png"> <img width=250 height=300 src="https://github.com/atulshanbhag/Image-Style-Transfer-Gatys-et-al.-/blob/master/results/scarlet_fire.png"><br>
